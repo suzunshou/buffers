@@ -7,7 +7,7 @@
     <groupId>io.github.suzunshou</groupId>
     <artifactId>buffers</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1-RELEASE</version>
+    <version>1.0.2-RELEASE</version>
 
     <properties>
         <javadocExecutable>${java.home}/../bin/javadoc</javadocExecutable>
