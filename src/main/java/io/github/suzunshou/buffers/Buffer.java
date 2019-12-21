@@ -26,7 +26,7 @@ public class Buffer<T> implements BufferFilter<T> {
         if (elements.size() == capacity) {
             bufferFull = true;
         }
-        return false;
+        return true;
     }
 
     public <R> R drain() {
